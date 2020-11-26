@@ -1,7 +1,6 @@
 ## Compose sample application
 
-This sample application was demoed as part of the AWS Cloud Containers
-Conference on 2020-07-09. It has been tested on Linux and macOS.
+This sample application is a demo based on [docker-archive/ecs-plugin](https://github.com/docker-archive/ecs-plugin).
 
 Note that `$` is used to denote commands in blocks where the command and its
 output are included.
